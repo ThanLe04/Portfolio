@@ -31,6 +31,17 @@ theme = 'PaperMod'
   [[params.socialIcons]]
     name = "facebook"
     url = "https://www.facebook.com/thanleloveu"
+
+  [params.fuseOpts]
+    isCaseSensitive = false
+    shouldSort = true
+    location = 0
+    distance = 1000
+    threshold = 0.4
+    minMatchCharLength = 0
+    # QUAN TRỌNG: Chỉ để mỗi "title" trong danh sách keys
+    keys = ["title"]
+    
 [menu]
   [[menu.main]]
     identifier = "home"
