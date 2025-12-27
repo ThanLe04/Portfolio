@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blog Lập Trình Của Thân Lê</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Blog Lập Trình Của Thân Lê</description>
+    <generator>Hugo -- 0.151.0</generator>
+    <language>vi</language>
+    <lastBuildDate>Sat, 27 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bài tập JS: Đổi màu nền ngẫu nhiên với DOM</title>
+      <link>http://localhost:1313/posts/js-change-color/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/js-change-color/</guid>
+      <description>Sử dụng JavaScript để can thiệp vào CSS, tạo hiệu ứng đổi màu vui mắt.</description>
+    </item>
+    <item>
+      <title>Giao thức UDP trong Java: Gửi nhận dữ liệu không kết nối</title>
+      <link>http://localhost:1313/posts/java-udp-basic/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/java-udp-basic/</guid>
+      <description>Tìm hiểu cách sử dụng DatagramSocket để gửi dữ liệu nhanh qua giao thức UDP.</description>
+    </item>
+    <item>
+      <title>Hiểu về Đa luồng (Multithreading) trong Java qua ví dụ thực tế</title>
+      <link>http://localhost:1313/posts/java-thread/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/java-thread/</guid>
+      <description>Tại sao cần đa luồng? Hướng dẫn tạo và chạy song song 2 luồng công việc khác nhau.</description>
+    </item>
+    <item>
+      <title>Kiểm tra dữ liệu Form (Validation) bằng JavaScript</title>
+      <link>http://localhost:1313/posts/js-validate-form/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/js-validate-form/</guid>
+      <description>Cách chặn người dùng gửi form rỗng hoặc nhập mật khẩu quá ngắn.</description>
+    </item>
+    <item>
+      <title>Kỹ thuật Đọc và Ghi file Text trong Java IO</title>
+      <link>http://localhost:1313/posts/java-io-file/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/java-io-file/</guid>
+      <description>Hướng dẫn sử dụng FileWriter và FileReader để lưu trữ dữ liệu vĩnh viễn trên ổ cứng.</description>
+    </item>
+    <item>
+      <title>Làm việc với API: Hướng dẫn sử dụng Fetch trong JavaScript</title>
+      <link>http://localhost:1313/posts/js-fetch-api/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/js-fetch-api/</guid>
+      <description>Cách lấy dữ liệu JSON từ server bên ngoài (API) mà không cần tải lại trang.</description>
+    </item>
+    <item>
+      <title>Lập trình giao diện Java Swing: Máy tính bỏ túi đơn giản</title>
+      <link>http://localhost:1313/posts/java-swing-calculator/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/java-swing-calculator/</guid>
+      <description>Hướng dẫn tạo cửa sổ ứng dụng (GUI) với JFrame và xử lý sự kiện nút bấm trong Java.</description>
+    </item>
+    <item>
+      <title>Tạo đồng hồ kỹ thuật số Realtime với JS</title>
+      <link>http://localhost:1313/posts/js-clock/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/js-clock/</guid>
+      <description>Sử dụng đối tượng Date và hàm setTimeout để cập nhật thời gian liên tục trên màn hình.</description>
+    </item>
+    <item>
+      <title>Xây dựng ứng dụng Chat đơn giản với Java Socket (TCP)</title>
+      <link>http://localhost:1313/posts/java-socket-chat/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/java-socket-chat/</guid>
+      <description>Hướng dẫn tạo kết nối TCP đơn giản giữa Client và Server để trao đổi tin nhắn.</description>
+    </item>
+    <item>
+      <title>Hồ sơ năng lực</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;-học-vấn-education&#34;&gt;🎓 Học vấn (Education)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Đại học Công nghệ Thành phố Hồ Chí Minh&lt;/strong&gt; (2022 - Hiện tại)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Chuyên ngành: Công nghệ thông tin&lt;/li&gt;
+&lt;li&gt;GPA hiện tại: 3.7/4.0&lt;/li&gt;
+&lt;li&gt;Các môn tiêu biểu: Lập trình mạng, Lập trình trên thiết bị di động, Lập trình Web.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-kỹ-năng-skills&#34;&gt;🛠 Kỹ năng (Skills)&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Lĩnh vực&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Công nghệ / Công cụ&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Ngôn ngữ&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Java (Core/Swing), JavaScript, HTML/CSS&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Database&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;SQL Server, MySQL&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Tools&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Git/GitHub, VS Code, IntelliJ IDEA&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Khác&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Tiếng Anh (Đọc hiểu tài liệu)&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-dự-án-tiêu-biểu-projects&#34;&gt;🏆 Dự án tiêu biểu (Projects)&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ứng dụng di động - Trò chơi rèn luyện trí não&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Java on Blog Lập Trình Của Thân Lê</title>
+    <link>http://localhost:1313/categories/java/</link>
+    <description>Recent content in Java on Blog Lập Trình Của Thân Lê</description>
+    <generator>Hugo -- 0.151.0</generator>
+    <language>vi</language>
+    <lastBuildDate>Sat, 27 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Giao thức UDP trong Java: Gửi nhận dữ liệu không kết nối</title>
+      <link>http://localhost:1313/posts/java-udp-basic/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/java-udp-basic/</guid>
+      <description>Tìm hiểu cách sử dụng DatagramSocket để gửi dữ liệu nhanh qua giao thức UDP.</description>
+    </item>
+    <item>
+      <title>Hiểu về Đa luồng (Multithreading) trong Java qua ví dụ thực tế</title>
+      <link>http://localhost:1313/posts/java-thread/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/java-thread/</guid>
+      <description>Tại sao cần đa luồng? Hướng dẫn tạo và chạy song song 2 luồng công việc khác nhau.</description>
+    </item>
+    <item>
+      <title>Kỹ thuật Đọc và Ghi file Text trong Java IO</title>
+      <link>http://localhost:1313/posts/java-io-file/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/java-io-file/</guid>
+      <description>Hướng dẫn sử dụng FileWriter và FileReader để lưu trữ dữ liệu vĩnh viễn trên ổ cứng.</description>
+    </item>
+    <item>
+      <title>Lập trình giao diện Java Swing: Máy tính bỏ túi đơn giản</title>
+      <link>http://localhost:1313/posts/java-swing-calculator/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/java-swing-calculator/</guid>
+      <description>Hướng dẫn tạo cửa sổ ứng dụng (GUI) với JFrame và xử lý sự kiện nút bấm trong Java.</description>
+    </item>
+    <item>
+      <title>Xây dựng ứng dụng Chat đơn giản với Java Socket (TCP)</title>
+      <link>http://localhost:1313/posts/java-socket-chat/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/java-socket-chat/</guid>
+      <description>Hướng dẫn tạo kết nối TCP đơn giản giữa Client và Server để trao đổi tin nhắn.</description>
+    </item>
+  </channel>
+</rss>

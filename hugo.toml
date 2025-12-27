@@ -1,0 +1,58 @@
+baseURL = 'https://link-web-cua-ban.vercel.app' # Sau này sẽ sửa lại sau
+languageCode = 'vi'
+title = 'Blog Lập Trình Của Thân Lê'
+theme = 'PaperMod'
+
+[params]
+  defaultTheme = "light"
+  
+  [params.homeInfoParams]
+    Title = "Hi there, I'm Than Le 👋"
+    Content = "Sinh viên phần mềm / Blogger công nghệ. Chào mừng bạn đến với blog cá nhân của tôi."
+    
+  # Cấu hình để hiện ảnh đại diện
+  [params.profileMode]
+    enabled = true
+    title = "Hi there, I'm Than Le" # Tên hiện to đùng
+    subtitle = "Sinh viên phần mềm / Blogger công nghệ"
+    imageUrl = "avatar.jpg" # Đường dẫn ảnh (nó tự lấy trong thư mục static)
+    imageTitle = "Avatar"
+    imageWidth = 260 # Kích thước ảnh (càng to càng rõ)
+    imageHeight = 180
+    buttons = [
+        { name = "About Me", url = "/about" },
+        { name = "Blog", url = "/posts" }
+    ]
+
+  # Các icon mạng xã hội bên dưới
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/ThanLe04"
+  [[params.socialIcons]]
+    name = "facebook"
+    url = "https://www.facebook.com/thanleloveu"
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Blog Lập Trình"
+    url = "/posts/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About Me"
+    url = "/about/"
+    weight = 30
+  [[menu.main]]
+    identifier = "search"
+    name = "🔍 Tìm Kiếm"
+    url = "/search/"
+    weight = 25
+[outputs]
+    home = ["HTML", "RSS", "JSON"]

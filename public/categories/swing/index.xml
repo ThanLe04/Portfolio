@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Swing on Blog Lập Trình Của Thân Lê</title>
+    <link>http://localhost:1313/categories/swing/</link>
+    <description>Recent content in Swing on Blog Lập Trình Của Thân Lê</description>
+    <generator>Hugo -- 0.151.0</generator>
+    <language>vi</language>
+    <lastBuildDate>Sat, 27 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/swing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lập trình giao diện Java Swing: Máy tính bỏ túi đơn giản</title>
+      <link>http://localhost:1313/posts/java-swing-calculator/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/java-swing-calculator/</guid>
+      <description>Hướng dẫn tạo cửa sổ ứng dụng (GUI) với JFrame và xử lý sự kiện nút bấm trong Java.</description>
+    </item>
+  </channel>
+</rss>

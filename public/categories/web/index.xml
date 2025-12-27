@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Web on Blog Lập Trình Của Thân Lê</title>
+    <link>http://localhost:1313/categories/web/</link>
+    <description>Recent content in Web on Blog Lập Trình Của Thân Lê</description>
+    <generator>Hugo -- 0.151.0</generator>
+    <language>vi</language>
+    <lastBuildDate>Sat, 27 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bài tập JS: Đổi màu nền ngẫu nhiên với DOM</title>
+      <link>http://localhost:1313/posts/js-change-color/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/js-change-color/</guid>
+      <description>Sử dụng JavaScript để can thiệp vào CSS, tạo hiệu ứng đổi màu vui mắt.</description>
+    </item>
+    <item>
+      <title>Kiểm tra dữ liệu Form (Validation) bằng JavaScript</title>
+      <link>http://localhost:1313/posts/js-validate-form/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/js-validate-form/</guid>
+      <description>Cách chặn người dùng gửi form rỗng hoặc nhập mật khẩu quá ngắn.</description>
+    </item>
+    <item>
+      <title>Làm việc với API: Hướng dẫn sử dụng Fetch trong JavaScript</title>
+      <link>http://localhost:1313/posts/js-fetch-api/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/js-fetch-api/</guid>
+      <description>Cách lấy dữ liệu JSON từ server bên ngoài (API) mà không cần tải lại trang.</description>
+    </item>
+    <item>
+      <title>Tạo đồng hồ kỹ thuật số Realtime với JS</title>
+      <link>http://localhost:1313/posts/js-clock/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/js-clock/</guid>
+      <description>Sử dụng đối tượng Date và hàm setTimeout để cập nhật thời gian liên tục trên màn hình.</description>
+    </item>
+  </channel>
+</rss>
