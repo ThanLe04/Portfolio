@@ -1,4 +1,4 @@
-baseURL = 'https://link-web-cua-ban.vercel.app' # Sau này sẽ sửa lại sau
+baseURL = 'https://portfolio-xi-rouge-47.vercel.app/' # Sau này sẽ sửa lại sau
 languageCode = 'vi'
 title = 'Blog Lập Trình Của Thân Lê'
 theme = 'PaperMod'
