@@ -37,6 +37,17 @@ draft: false
 
 ---
 
+## 📜 Chứng chỉ (Certifications)
+
+### 1. Chứng chỉ Networking Basics
+{{< figure src="/files/basic.png" link="/files/basicpdf.pdf" target="_blank" width="400" caption="Bấm vào ảnh để xem bản gốc (PDF)" >}}
+### 2. Chứng chỉ JavaScript Essentials 1
+{{< figure src="/files/java1.png" link="/files/java1pdf.pdf" target="_blank" width="400" caption="Bấm vào ảnh để xem bản gốc (PDF)" >}}
+### 3. Chứng chỉ JavaScript Essentials 2
+{{< figure src="/files/java2.png" link="/files/java2pdf.pdf" target="_blank" width="400" caption="Bấm vào ảnh để xem bản gốc (PDF)" >}}
+
+---
+
 ## 📞 Liên hệ
 * 📍 Địa chỉ: TP. Hồ Chí Minh
 * 📧 Email: [lethan0972@gmail.com](mailto:lethan0972@gmail.com)
